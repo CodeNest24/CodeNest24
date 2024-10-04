@@ -5,7 +5,3 @@
 - 📫 How to reach me: You can reach me via [DreamingBig2_4@Outlook.com](mailto:DreamingBig2_4@Outlook.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tech stacks and improving workflows for development environments!
-
-CodeNest24/CodeNest24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
